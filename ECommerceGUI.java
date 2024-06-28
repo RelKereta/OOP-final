@@ -59,6 +59,7 @@ public class ECommerceGUI extends JFrame {
             productListModel.addElement(new Product("Smartphone", 499.99, 10));
             productListModel.addElement(new Product("Headphones", 49.99, 15));
             productListModel.addElement(new Product("Keyboard", 29.99, 30));
+            productListModel.addElement(new Product("fff", 29.99, 30));
         }
 
         setTitle("Simple E-Commerce System");
